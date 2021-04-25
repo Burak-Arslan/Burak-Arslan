@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello World! 👋
+My name is Burak Arslan, I'm an Mobile Application Developer from Turkey🇷
 
-<!--
-**Burak-Arslan/Burak-Arslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 👋
+- I’m currently working on Nuevo Softwarehouse. [Nuevo Softwarehouse](@nuevosoftwarehouse)
+- Ask me about Java, Kotlin or Android.
 
-Here are some ideas to get you started:
+Learning 📝  ✍️
+- Learning about Android Jetpack Compose
+- Ios application development
+- Swift
+- SwiftUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me 👀 
+ - [Linkedin](https://www.linkedin.com/in/burak-arslan-ab2358a1)
+ - [Github](https://github.com/Burak-Arslan/Burak-Arslan)
+ - [Mail](burakarslanbilisim@gmail.com)
