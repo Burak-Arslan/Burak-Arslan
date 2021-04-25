@@ -1,5 +1,5 @@
 Hello World! 👋
-My name is Burak Arslan, I'm an Mobile Application Developer from Turkey🇷
+- My name is Burak Arslan, I'm an Mobile Application Developer from Turkey🇷
 
 About Me 👋
 - I’m currently working on Nuevo Softwarehouse. [Nuevo Softwarehouse](@nuevosoftwarehouse)
