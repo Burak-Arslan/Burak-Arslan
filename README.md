@@ -7,7 +7,6 @@ About Me 👋
 
 Learning 📝  ✍️
 - Learning about Android Jetpack Compose
-- Ios application development
 - Swift
 - SwiftUI
 
