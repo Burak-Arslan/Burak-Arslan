@@ -2,7 +2,7 @@ Hello World! 👋
 - My name is Burak Arslan, I'm an Mobile Application Developer from Turkey🇷
 
 About Me 👋
-- I’m currently working on ING(via Amaris). [Nuevo Softwarehouse](@nING)
+- I’m currently working on ING(via Amaris). [Nuevo Softwarehouse](@ING)
 - Ask me about Java, Kotlin or Android.
 
 Learning 📝  ✍️
