@@ -6,7 +6,8 @@ About Me 👋
 - Ask me about Java, Kotlin or Android.
 
 Learning 📝  ✍️
-- Learning about Android Jetpack Compose
+- Kotlin
+- Jetpack Compose
 - Swift
 - SwiftUI
 
